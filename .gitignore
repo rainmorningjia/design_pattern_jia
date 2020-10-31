@@ -1,0 +1,5 @@
+.idea/
+.iml
+*.iml
+*.log
+swift_alog.conf
